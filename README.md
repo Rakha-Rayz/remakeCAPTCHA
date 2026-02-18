@@ -41,3 +41,9 @@ Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file before submitting change
 ## 📄 License
 
 This project is licensed under the terms specified in the LICENSE file.
+
+## Bot
+```
+<script src="./script/bot.js" type="module"></script>
+```
+Add the above code to activate the bot to `index.html`
