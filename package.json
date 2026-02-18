@@ -1,0 +1,24 @@
+{
+  "name": "remakecaptcha",
+  "version": "1.0.0",
+  "description": "A simple Captcha",
+  "keywords": [
+    "CAPTCHA",
+    "REMAKE"
+  ],
+  "homepage": "https://github.com/Rakha-Rayz/remakeCAPTCHA#readme",
+  "bugs": {
+    "url": "https://github.com/Rakha-Rayz/remakeCAPTCHA/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakha-Rayz/remakeCAPTCHA.git"
+  },
+  "license": "MIT",
+  "author": "Rakhaa",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
